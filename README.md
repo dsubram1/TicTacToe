@@ -31,6 +31,6 @@ Steps to run the program:
 11. Play the tic tac toe game
 
 Note:
-The game for 5*5 and above with minimax algorithm takes a long time. Its better to play with other algorithms for board size bigger than 3*3
+The game for n=5 and above with minimax algorithm takes a long time. Its better to play with other algorithms for board size bigger than n=3.
 
 
